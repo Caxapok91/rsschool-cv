@@ -5,5 +5,5 @@ Resume
 4. Initial HTML, javascript, css
 5. No code
 6. No experience, but will certainly appear
-7. training at https://rs.school/, first degree higher engineer
+7. training at https://rs.school/, first degree higher engineer,I am getting a second degree in logistics
 8. A2(pre intermediate)
