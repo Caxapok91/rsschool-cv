@@ -37,3 +37,6 @@ li{
 .info{
     margin: 10px;
 }
+ul li {
+    padding-left: 20px;
+}
