@@ -12,7 +12,6 @@ function squareDigits(num){\
   }\
   let x = parseInt(res);\
   return x;\
-  \
 }
 6. No experience, but will certainly appear
 7. training at https://rs.school/, first degree higher engineer,I am getting a second degree in logistics
