@@ -4,8 +4,14 @@
 4. Initial HTML, javascript, css
 5. 
 >var fizzify = fizzbuzz = function(n)\
->{\
->  return Array.apply(null, new Array(n)).map(function(e, i){\
->    return (++i % 3 ? '' : 'Fizz' ) + (i % 5 ? '' : 'Buzz') || i;\
->  }); 
->}\
+function squareDigits(num){\
+  //may the code be with you\
+  let str = num.toString();\
+  let res='';\
+  for (let i=0; i<str.length; i++ ){\
+    res= `${res}${str[i]**2}`;\
+  }\
+  let x = parseInt(res);\
+  return x;\
+  \
+}
