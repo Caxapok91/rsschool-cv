@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: left;
+    width:60%;
+    margin: auto;
+}
+
+header,footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eef126;
+    text-align: center;
+}
+
+.name-link{
+    text-align: left;
+    font-size: 36px;
+}
+footer{
+    height: 100px;
+}
+
+.date{
+    font-size: 36px;
+}
+main{
+    font-size: 25px;
+}
+li{
+    list-style-position:inside;
+}
+.info{
+    margin: 10px;
+}
